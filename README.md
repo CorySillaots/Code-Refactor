@@ -32,7 +32,8 @@ Open your coding software, select "open file" and locate the module-1-challenge 
 - Run Buddy Project Code
     University Of Toronto SCS Coding Boot Camp
 
-
+- W3 Schools
+    www.w3schools.com
 ## License
 Copyright 2022, Cory Sillaots
 

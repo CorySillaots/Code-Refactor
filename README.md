@@ -27,7 +27,7 @@ Open your coding software, select "open file" and locate the module-1-challenge 
 
 ## Collaborators and References
 - Brennen Merrett
-    (provide GitHub Link)
+    https://github.com/BrennanJLM
 
 - Run Buddy Project Code
     University Of Toronto SCS Coding Boot Camp

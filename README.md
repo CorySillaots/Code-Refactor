@@ -1,5 +1,8 @@
 Horiseon Code Refactor Challenge for Module-01
 
+Active URL: [Horiseon](https://corysillaots.github.io/Code-Refactor/)
+
+
 The purpose of this challenge was to take an existing piece of code and ensure that all hyperlinks, accessibility standards and that the coding layout was relative to the application.
 
 ## Installation:
@@ -23,6 +26,9 @@ Open your coding software, select "open file" and locate the module-1-challenge 
 - style.css had functions consolidated where appropriate.
 - style.css had functions reorganized in order to keep them together in common groups. 
 - Notes were added to both index.html and style.css in order to navigate through the code more easily.
+
+![image](./assets/images/Mockup1.png)
+![image](./assets/images/Mockup2.png)
 
 
 ## Collaborators and References
